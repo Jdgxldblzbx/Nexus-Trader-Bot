@@ -74,3 +74,22 @@ quantitative trading solutions.
 Nexustrader is available on GitHub under the MIT License. Contributions to the project are welcome and require the
 completion of a Contributor License Agreement (CLA). Please review the contribution guidelines and submit a pull
 request. See the [LICENSE](./LICENSE) file for details.
+
+## TAGS
+- bot 
+- crypto 
+- trading 
+- trading bot 
+- trading strategies 
+- trading algorithms 
+- tradingbot 
+- crypto tools 
+- crypto bot 
+- crypto trading 
+- crypto trading bot 
+- crypto currency trading 
+- trading strategy 
+- trading signal bot 
+- trading software 
+- nexustrader 
+- nexus trader
